@@ -14,13 +14,14 @@
   <img align="center" src="add.img" alt="Add Page">
   <img align="center" src="community.img" alt="Community Page">
   <img align="center" src="show.img" alt="Show Page">
-  
- 
-<hr>
 
 <hr>
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
 <p align="center">https://www.linkedin.com/in/edward-griffin-b07a25239//h3>
+
+<hr>
+<h3 align="center">Daily Leetcode Repository:</h3>
+<p align="center">https://github.com/sasszz/DailyLeetCode</p>
 
 <hr>
 
