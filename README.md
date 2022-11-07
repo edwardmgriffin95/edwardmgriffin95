@@ -21,7 +21,7 @@
 
 <hr>
 <h3 align="center">Daily Leetcode Repository:</h3>
-<p align="center">https://github.com/sasszz/DailyLeetCode</p>
+<p align="center">https://github.com/edwardmgriffin95/DailyLeetCode</p>
 
 <hr>
 
