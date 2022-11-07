@@ -13,6 +13,7 @@
   <img align="center" src="dash.img" alt="Dashboard">
   <img align="center" src="add.img" alt="Add Page">
   <img align="center" src="community.img" alt="Community Page">
+  <img align="center" src="show.img" alt="Show Page">
   
  
 <hr>
