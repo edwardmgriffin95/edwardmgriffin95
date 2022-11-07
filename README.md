@@ -9,10 +9,10 @@
   <p align="center">TECH STACK: React, HTML5, CSS, MongoDB, Express, BCrypt </p>
   <p align="center">Full-stack development - Create, edit, delete and share travel experiences</p>
   <p align="center">https://github.com/JPWallow/MERN_Group_Project.git</p>
-  <img align="center" src="login.img" alt="Login"
-  <img align="center" src="dash.img" alt="Dashboard"
-  <img align="center" src="add.img" alt="Add Page"
-  <img align="center" src="community.img" alt="Community Page"
+  <img align="center" src="login.img" alt="Login">
+  <img align="center" src="dash.img" alt="Dashboard">
+  <img align="center" src="add.img" alt="Add Page">
+  <img align="center" src="community.img" alt="Community Page">
   
  
 <hr>
